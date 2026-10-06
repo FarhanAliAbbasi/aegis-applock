@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aegis AppLock</string>
+    <string name="accessibility_service_description">Aegis AppLock uses this service strictly to detect when locked apps are opened so it can prompt for your PIN, Pattern, or Biometrics instantly without consuming battery in the background.</string>
+</resources>
